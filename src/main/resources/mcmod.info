@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "capechanger",
+    "name": "Cape Changer",
+    "description": "Adds the open cape editor functionality to 1.8.9",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [ "luaq." ]
+  }
+]
